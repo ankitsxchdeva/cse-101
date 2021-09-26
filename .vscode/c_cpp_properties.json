@@ -4,7 +4,7 @@
             "name": "Mac",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/usr/local/include/cairo"
+                "/usr/local/Cellar/cairo/1.16.0_5/include/cairo"
             ],
             "defines": [],
             "macFrameworkPath": [
@@ -13,8 +13,7 @@
             "compilerPath": "/usr/bin/clang",
             "cStandard": "c17",
             "cppStandard": "c++98",
-            "intelliSenseMode": "macos-clang-x64",
-            "configurationProvider": "ms-vscode.makefile-tools"
+            "intelliSenseMode": "macos-clang-x64"
         }
     ],
     "version": 4
