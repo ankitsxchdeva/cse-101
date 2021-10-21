@@ -4,3 +4,6 @@
 [submodule "TP02-stacks"]
 	path = TP02-stacks
 	url = git@github.com:ankitsxchdeva/TP02-stacks.git
+[submodule "TP01-linked-lists"]
+	path = TP01-linked-lists
+	url = git@github.com:ankitsxchdeva/TP01-linked-lists.git
