@@ -1,6 +1,6 @@
-[submodule "bard"]
-	path = bard
-	url = git@github.com:ankitsxchdeva/bard.git
-[submodule "stacks-prep"]
-	path = stacks-prep
-	url = git@github.com:ankitsxchdeva/stacks-prep.git
+[submodule "HW1-bard"]
+	path = HW1-bard
+	url = git@github.com:ankitsxchdeva/HW1-bard.git
+[submodule "TP02-stacks"]
+	path = TP02-stacks
+	url = git@github.com:ankitsxchdeva/TP02-stacks.git
