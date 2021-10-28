@@ -10,3 +10,6 @@
 [submodule "HW02-nqueens"]
 	path = HW02-nqueens
 	url = git@github.com:ankitsxchdeva/HW02-nqueens.git
+[submodule "HW03-wordrange"]
+	path = HW03-wordrange
+	url = git@github.com:ankitsxchdeva/HW03-wordrange.git
