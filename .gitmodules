@@ -4,3 +4,9 @@
 [submodule "TP01-linked-lists"]
 	path = TP01-linked-lists
 	url = git@github.com:ankitsxchdeva/TP01-linked-lists.git
+[submodule "HW01-bard"]
+	path = HW01-bard
+	url = git@github.com:ankitsxchdeva/HW01-bard.git
+[submodule "HW02-nqueens"]
+	path = HW02-nqueens
+	url = git@github.com:ankitsxchdeva/HW02-nqueens.git
