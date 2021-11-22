@@ -16,3 +16,6 @@
 [submodule "TP03-heaps-n-trees"]
 	path = TP03-heaps-n-trees
 	url = git@github.com:ankitsxchdeva/TP03-heaps-n-trees.git
+[submodule "TP04-array-n-datastructs"]
+	path = TP04-array-n-datastructs
+	url = git@github.com:ankitsxchdeva/TP04-array-n-datastructs.git
