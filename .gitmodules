@@ -19,3 +19,6 @@
 [submodule "TP04-array-n-datastructs"]
 	path = TP04-array-n-datastructs
 	url = git@github.com:ankitsxchdeva/TP04-array-n-datastructs.git
+[submodule "HW04-six-degrees"]
+	path = HW04-six-degrees
+	url = git@github.com:ankitsxchdeva/HW04-six-degrees.git
